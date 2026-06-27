@@ -209,8 +209,6 @@ Mods:               %APPDATA%\RobloxManager\mods\
 **macOS:**
 ```
 Accounts + settings: ~/Library/Application Support/RobloxManager/
-Theme CSS:          ~/Library/Application Support/RobloxManager/theme.css
-Mods:               ~/Library/Application Support/RobloxManager/mods/
 ```
 
 ---

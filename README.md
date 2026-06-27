@@ -4,7 +4,7 @@ A native **Windows & macOS** Roblox account & multi-instance manager built with 
 
 Run multiple Roblox sessions simultaneously with different accounts — no conflicts, no session overlap.
 
-Updated for 0.8.5 - 0.1.0 macOS (macOS 0.2.0 will be released somewhere tommorow)
+Updated for 0.8.5 windows - 0.1.0 macOS (macOS 0.2.0 will be released somewhere tommorow)
 
 ---
 

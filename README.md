@@ -176,7 +176,7 @@ tick();
 
 ## 🔐 Security
 
-- **Cookies are encrypted** on disk using a session-scoped key stored in the OS temp directory with a hidden backup in `AppData` (Windows) / `Application Support` (macOS)
+- **Cookies are encrypted** on disk using a session-scoped key stored in the OS temp directory with a hidden backup
 - **No data is sent to external servers** — all auth happens client-side
 - **The updater downloads directly** in Rust (no PowerShell/cmd windows), verifies the download, then launches a UAC/elevated replacement script
 - **Mods are user-controlled** — the app never downloads mods automatically
